@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+    padding: 10px;
+}
+
+.blue {
+    color: blue;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#searchInput {
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+}
